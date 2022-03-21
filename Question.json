@@ -1,0 +1,117 @@
+[
+
+    {
+
+        "title":"Constructors are used to:",
+        "answer_1":"To build a user interface.",
+        "answer_2":"Free memory.",
+        "answer_3":"Initialize a newly created object.",
+        "answer_4":"To create a sub-class.",
+        "right_answer":"Initialize a newly created object."
+
+
+    },
+    {
+
+        "title":"Pick the term that relates to polymorphism:",
+        "answer_1":"Dynamic binding",
+        "answer_2":"Static allocation",
+        "answer_3":"Dynamic allocation",
+        "answer_4":"Static typing",
+        "right_answer":"Dynamic binding"
+
+
+    },
+    {
+
+        "title":"An object that has more than one form is referred to as:",
+        "answer_1":"Polymorphism",
+        "answer_2":"Inheritance",
+        "answer_3":"Abstract class",
+        "answer_4":"Interface",
+        "right_answer":"Polymorphism"
+
+
+    },
+    {
+
+        "title":" Who invented OOP?",
+        "answer_1":" Andrea Ferro",
+        "answer_2":"Adele Goldberg",
+        "answer_3":"Alan Kay",
+        "answer_4":"Dennis Ritchie",
+        "right_answer":"Alan Kay"
+
+
+    },
+    {
+
+        "title":" Which is not a feature of OOP in general definitions?",
+        "answer_1":"Efficient Code",
+        "answer_2":" Code reusability",
+        "answer_3":"Modularity",
+        "answer_4":"Duplicate/Redundant data",
+        "right_answer":"Duplicate/Redundant data"
+
+
+    },
+    {
+
+        "title":" Which was the first purely object oriented programming language developed?",
+        "answer_1":"Kotlin",
+        "answer_2":" SmallTalk",
+        "answer_3":"Java",
+        "answer_4":" C++",
+        "right_answer":"SmallTalk"
+
+
+    },
+    {
+
+        "title":"Which feature of OOP indicates code reusability?",
+        "answer_1":"Abstraction",
+        "answer_2":"Polymorphism",
+        "answer_3":"Encapsulation",
+        "answer_4":"Inheritance",
+        "right_answer":"Inheritance"
+
+
+    },
+    {
+
+        "title":"Why Java is Partially OOP language?",
+        "answer_1":"It allows code to be written outside classes",
+        "answer_2":"It supports usual declaration of primitive data types",
+        "answer_3":"It does not support pointers",
+        "answer_4":"It doesn’t support all types of inheritance",
+        "right_answer":"It supports usual declaration of primitive data types"
+
+
+    },
+    {
+
+        "title":" Which among the following can show polymorphism?",
+        "answer_1":"Overloading &&",
+        "answer_2":"Overloading <<",
+        "answer_3":"Overloading ||",
+        "answer_4":"Overloading +=",
+        "right_answer":"Overloading <<"
+
+
+    },
+    {
+
+        "title":"In which access should a constructor be defined, so that object of the class can be created in any function?",
+        "answer_1":"Any access specifier will work",
+        "answer_2":"Private",
+        "answer_3":"Public",
+        "answer_4":"Protected",
+        "right_answer":"Public"
+
+
+    }
+
+
+
+
+]
